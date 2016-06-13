@@ -46,7 +46,7 @@ resource "aws_instance" "web" {
   tags {
      Identity = "hashiconf-e369853df766fa44e1ed0ff613f563bd"
      Foo = "bar"
-     Zip = "blabla"
+     Zip = "blabla2"
     }
 }
 
